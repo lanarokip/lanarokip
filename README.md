@@ -2,7 +2,7 @@
 
 
 
-<img align="right" alt="https://github.com/lanarokip/Assets/blob/master/Assets/PC.gif" width="190" />
+<img src="https://raw.githubusercontent.com/lanarokip/Assets/master/Assets/PC.gif" align="right" alt="pc" width="190" />
 
 ### <img src="https://github.com/lanarokip/Assets/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/lanarokip/Assets/blob/master/Assets/Earth.gif" width="24px">
 
